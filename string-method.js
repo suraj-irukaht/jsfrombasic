@@ -34,3 +34,5 @@ console.log(str1);
 str1 = str1.slice(0, 5); // it will give the string equal to last number
 //if number in only one it will start from there and give all remaining words
 console.log(str1);
+
+// aefa
